@@ -1,38 +1,43 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://www.hdmade.com/case-study/fox-sports-just-a-bit-outside/'
-inLanguage: en
-starred: false
-keywords:
-  - baseball
-  - authenticity
-  - mobile-first
-  - sun-bleached
-  - ephemera
-  - experience
-  - fans
-  - passion
-  - background
-  - reading
-description: "Fox Sports recruited our team to design a stylish, smart new site that would engage diehard baseball lovers with \"passionate, nuanced, authentic\" content. To express that passion and authenticity, we knew our art direction should be steeped in the traditional aesthetics of baseball's storied lineage."
-datePublished: '2015-12-04T22:32:29.556Z'
-dateModified: '2015-12-04T22:31:26.747Z'
+inLanguage: null
+starred: true
+keywords: []
+description: Design a new site for the most passionate baseball fans.
+datePublished: '2015-12-04T22:48:20.732Z'
+dateModified: '2015-12-04T22:47:59.724Z'
+title: 'FOX SPORTS: JUST A BIT OUTSIDE '
 author: []
-related: []
-app_links: []
-title: 'Fox Sports: Just a Bit Outside'
 authors: []
 publisher:
-  name: HD MADE
-  domain: www.hdmade.com
-  url: 'http://www.hdmade.com'
+  name: null
+  domain: null
+  url: null
   favicon: null
 sourcePath: _posts/2015-12-04-fox-sports-just-a-bit-outside.md
 published: true
-_context: 'http://schema.org'
-_type: MediaObject
+url: fox-sports-just-a-bit-outside/index.html
+_type: Article
 
 ---
-<article style=""><h1>Fox Sports&amp;colon; Just a Bit Outside</h1><p>Fox Sports recruited our team to design a stylish&amp;comma; smart new site that would engage diehard baseball lovers with "passionate&amp;comma; nuanced&amp;comma; authentic" content&amp;period; To express that passion and authenticity&amp;comma; we knew our art direction should be steeped in the traditional aesthetics of baseball's storied lineage&amp;period;</p><img src="http://www.hdmade.com/wp-content/uploads/2015/01/jabo_subhero.jpg" /></article>
+## FOX SPORTS: JUST A BIT OUTSIDE
+
+Design a new site for the most passionate baseball fans.
+
+### Approach
+
+To express that passion and authenticity, we knew our art direction should be steeped in the traditional aesthetics of baseball's storied lineage. We scoured memorabilia and junk shops, digging up rare vintage uniforms and Brooklyn Dodgers banners that hadn't been hung since 1955\. We poured over decades of baseball cards and team ephemera. More than mere nostalgia, we were targeting the core emotional connection that bonds true fans --- typically from childhood --- to America's pastime.
+
+### 
+
+### Logo Exploration
+
+The fan's experience of the game was at the center of our approach to design and is evident across the site: strong, smooth lettering like what is found on the road greys for so many teams; fine, sharp lines that bring to mind reading the standings in the newspaper; background texture on the homepage that mimics a sun-bleached scorecard; and a menu icon that is reminiscent of stitching on a baseball.
+
+### 
+
+### Mobile Reading Experience
+
+We then translated the visual identity to a mobile-first reading experience. We wanted each article to stand out and let fans get to the stories as easily as possible.
