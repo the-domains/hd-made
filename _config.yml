@@ -1,0 +1,28 @@
+name: HD MADE
+favicon: null
+layout_spectrum: 0.32062946003861725
+typography_spectrum: 0.896943680010736
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9130980230402201
+  lightness: 0.06942609348334372
+  saturation: 0.624304166296497
+  rhythmicContrast: 0.8184562441892922
+purpose: []
