@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[HD MADE]]></title>
+        <description><![CDATA[HD MADE]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 04 Dec 2015 22:25:49 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[FOX SPORTS: JUST A BIT OUTSIDE]]></title>
+            <description><![CDATA[<article><h1>FOX SPORTS: JUST A BIT OUTSIDE</h1><h2>Background</h2><p>Design a new site for the most passionate baseball fans.</p></article>]]></description>
+            <link>undefinedfox-sports-just-a-bit-outside/index.html</link>
+            <guid isPermaLink="false">2f60062b-5dcc-49a8-99f0-4e0fba670f1a</guid>
+            <pubDate>Fri, 04 Dec 2015 22:25:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
