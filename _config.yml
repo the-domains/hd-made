@@ -1,7 +1,7 @@
 name: HD MADE
 favicon: null
-layout_spectrum: 0.8462
-typography_spectrum: 0.44559
+layout_spectrum: 1
+typography_spectrum: 0.38002
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#535b63'
     - '#94999e'
     - '#c5c6c7'
-  brandStrength: 0.5
-  lightness: 1
-  saturation: 0.5
-  rhythmicContrast: 0.75
+  brandStrength: 1
+  lightness: 0
+  saturation: 0.25
+  rhythmicContrast: 1
 purpose: []
