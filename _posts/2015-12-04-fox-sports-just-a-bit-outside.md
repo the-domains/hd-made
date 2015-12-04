@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Design a new site for the most passionate baseball fans.
-datePublished: '2015-12-04T22:50:55.249Z'
-dateModified: '2015-12-04T22:50:52.031Z'
+datePublished: '2015-12-04T22:53:35.114Z'
+dateModified: '2015-12-04T22:53:29.754Z'
 title: 'FOX SPORTS: JUST A BIT OUTSIDE '
 author: []
 sourcePath: _posts/2015-12-04-fox-sports-just-a-bit-outside.md
@@ -22,6 +22,8 @@ url: fox-sports-just-a-bit-outside/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/912bae5c-643c-48ec-9791-e09d49611888.png)
+
 ## FOX SPORTS: JUST A BIT OUTSIDE
 
 Design a new site for the most passionate baseball fans.
