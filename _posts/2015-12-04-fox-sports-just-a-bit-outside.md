@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Design a new site for the most passionate baseball fans.
-datePublished: '2015-12-04T22:53:35.114Z'
-dateModified: '2015-12-04T22:53:29.754Z'
+datePublished: '2015-12-09T23:19:25.841Z'
+dateModified: '2015-12-04T22:59:12.297Z'
 title: 'FOX SPORTS: JUST A BIT OUTSIDE '
 author: []
 sourcePath: _posts/2015-12-04-fox-sports-just-a-bit-outside.md
